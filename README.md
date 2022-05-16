@@ -4,7 +4,8 @@
 
 
 
-![voila_etf_analyzer](images.recordings/etf_analyzer.mp4 /GIF)
+![voila_etf_analyzer](images/etf_analyzer.png)
+
 
 
 
