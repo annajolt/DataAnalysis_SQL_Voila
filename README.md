@@ -1,4 +1,4 @@
-# **Challenge 7 -ETF Analyzer**
+# **ETF Analyzer**
 ---
 ## *Necessary Libraries*
 - import numpy as np
